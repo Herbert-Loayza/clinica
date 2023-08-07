@@ -22,13 +22,18 @@ public class MedicoService {
         return medicoRespository.findAll();
     }
 
-    /*
-    public Medico getMedicoById(Integer id){
-        return medicoRespository.findById(id).orElse(null);
-    }
-     */
-
     public Optional<Medico>searchById(Integer id){
         return medicoRespository.findById(id);
     }
+
+    public Medico createMedico(Medico medico){
+        return medicoRespository.save(medico);
+    }
+
+    public void delete(Integer id){
+        medicoRespository.deleteById(id);
+    }
+
+
+
 }

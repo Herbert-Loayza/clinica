@@ -12,5 +12,4 @@ public class MedicoResponse {
 
     private Integer status;
     private String message;
-    private Medico medico;
 }

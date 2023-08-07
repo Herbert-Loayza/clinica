@@ -17,14 +17,14 @@ public class Medico {
 
     @Id
     //@GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer id_doctor;
+    private Integer id;
 
 
     private String nombre;
 
     private String especialidad;
 
-    private Integer colegiatura;
+    private String colegiatura;
 
 
 }

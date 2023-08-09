@@ -1,4 +1,4 @@
-package com.loayza.clinica.model;
+package com.loayza.medico.model;
 
 
 import lombok.*;

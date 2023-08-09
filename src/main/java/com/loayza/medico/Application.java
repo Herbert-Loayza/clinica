@@ -1,4 +1,4 @@
-package com.loayza.clinica;
+package com.loayza.medico;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

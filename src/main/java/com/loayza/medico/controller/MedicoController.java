@@ -1,10 +1,9 @@
-package com.loayza.clinica.controller;
+package com.loayza.medico.controller;
 
 
-import com.loayza.clinica.controller.response.MedicoResponse;
-import com.loayza.clinica.model.Medico;
-import com.loayza.clinica.service.MedicoService;
-import org.springframework.http.HttpMessage;
+import com.loayza.medico.controller.response.MedicoResponse;
+import com.loayza.medico.model.Medico;
+import com.loayza.medico.service.MedicoService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

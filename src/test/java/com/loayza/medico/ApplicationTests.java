@@ -1,4 +1,4 @@
-package com.loayza.clinica;
+package com.loayza.medico;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

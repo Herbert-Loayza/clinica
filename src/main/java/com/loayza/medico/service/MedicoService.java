@@ -1,8 +1,8 @@
-package com.loayza.clinica.service;
+package com.loayza.medico.service;
 
 
-import com.loayza.clinica.model.Medico;
-import com.loayza.clinica.repository.MedicoRespository;
+import com.loayza.medico.model.Medico;
+import com.loayza.medico.repository.MedicoRespository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

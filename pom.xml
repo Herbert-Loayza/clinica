@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.loayza.clinica</groupId>
-	<artifactId>loayza.clinica</artifactId>
+	<artifactId>medico</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>loayza.clinica</name>
 	<description>Demo Clinica Loayza</description>

@@ -1,6 +1,5 @@
-package com.loayza.clinica.controller.response;
+package com.loayza.medico.controller.response;
 
-import com.loayza.clinica.model.Medico;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
